@@ -1,7 +1,7 @@
 import os
 import sys
 
-path = '/home/yourusername/drf-api'
+path = '/home/mossaab-byte/MossaabRahim'
 if path not in sys.path:
     sys.path.append(path)
 
